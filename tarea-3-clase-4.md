@@ -2,9 +2,9 @@
 
 ## Tarea1
 
-['Área del Triángulo'](areaTriangulo.drawio)
+!['Área del Triángulo'](areaTriangulo.drawio)
 
 
 ## Tarea2
 
-['Proceso permisos'](solicitudPermisosApp.drawio)
+!['Proceso permisos'](solicitudPermisosApp.drawio)
